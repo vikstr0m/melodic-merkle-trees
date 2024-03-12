@@ -1,0 +1,21 @@
+{
+    "name": "melodic-merkle-trees",
+    "version": "0.1.2",
+    "description": "Utility for creating and verifying Merkle trees, enhancing blockchain data integrity.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vikstr0m/melodic-merkle-trees"
+    },
+    "author": "vikstr0m",
+    "license": "MIT",
+    "dependencies": {
+        "merkletreejs": "^0.2.19",
+        "keccak256": "^1.0.2",
+        "crypto": "^1.0.1",
+        "lodash": "^4.17.21"
+    }
+}
